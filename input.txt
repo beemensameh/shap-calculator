@@ -1,0 +1,5 @@
+4
+Rectangle red true 2 3
+Square red true 2
+Triangle red true 2 3 5
+Circle red true 2

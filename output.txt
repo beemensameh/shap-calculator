@@ -1,0 +1,6 @@
+Rectangle	Area: 6.0
+Square	Area: 4.0
+Triangle	Area: 52.91502622129181
+Circle	Area: 12.566370614359172
+**************************
+Max Area= 52.91502622129181
